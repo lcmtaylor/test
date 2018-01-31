@@ -1,3 +1,4 @@
 public class Student{
-	private String name;//ĞÕÃû
+	private String name;
+	private int age;
 }
